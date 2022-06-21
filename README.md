@@ -1,5 +1,4 @@
-# BO_DoE
-## Bayesian Optimisation for Design of Experiment
+# Bayesian Optimisation for Design of Synthesis of Multiple-Linker Metal Organic Frameworks
 
 In synthesis of multiple-linker Metal-Organic Frameworks (MOF), selection of compositions in experiment is challenging.
 One can approximate the field of the outcomes as a Gaussian process, which can be optimised via Bayesian Optimisation.
